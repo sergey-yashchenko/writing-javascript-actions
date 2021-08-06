@@ -83,7 +83,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -118,3 +117,4 @@ dist
 
 .idea/
 .DS_Store
+node_modules/
